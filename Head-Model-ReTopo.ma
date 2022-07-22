@@ -1,6 +1,6 @@
 //Maya ASCII 2023 scene
 //Name: Head-Model-ReTopo.ma
-//Last modified: Sun, Jul 10, 2022 05:33:23 PM
+//Last modified: Fri, Jul 15, 2022 08:58:41 PM
 //Codeset: UTF-8
 requires maya "2023";
 requires "mtoa" "5.1.0";
@@ -11,7 +11,7 @@ fileInfo "product" "Maya 2023";
 fileInfo "version" "2023";
 fileInfo "cutIdentifier" "202202161415-df43006fd3";
 fileInfo "osv" "Mac OS X 10.16";
-fileInfo "UUID" "4E1AFD59-0641-EA0E-883B-05998F99DEE1";
+fileInfo "UUID" "EC455F20-3447-84D8-6F1D-44B445208224";
 createNode transform -s -n "persp";
 	rename -uid "82B7AE1D-3644-49B1-7693-27AD97E4AFCF";
 	setAttr ".v" no;
